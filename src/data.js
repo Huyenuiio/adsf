@@ -1,0 +1,6 @@
+const data = [
+    { id: 1, title: 'anh hentai', img: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1f09418-ae57-45ea-96f0-d2f3389403f8/de9a4jc-48d4d0e7-f7d6-4a44-9607-936bd315cb25.png/v1/fill/w_800,h_1000,q_70,strp/saber_fate_by_simorgh1_de9a4jc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxZjA5NDE4LWFlNTctNDVlYS05NmYwLWQyZjMzODk0MDNmOFwvZGU5YTRqYy00OGQ0ZDBlNy1mN2Q2LTRhNDQtOTYwNy05MzZiZDMxNWNiMjUucG5nIiwiaGVpZ2h0IjoiPD0yMDAwIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZDFmMDk0MTgtYWU1Ny00NWVhLTk2ZjAtZDJmMzM4OTQwM2Y4XC9zaW1vcmdoMS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.WHeXNQNVIz4Bj2x6NxIBpDnw_m2GAZu7LQOmRZIL3_k' },
+    { id: 2, title: 'Title 2', img: 'image2.jpg' }
+];
+
+module.exports = data;
